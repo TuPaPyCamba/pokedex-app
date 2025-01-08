@@ -1,6 +1,7 @@
 import { Link, useLocation } from "react-router-dom"
 
 import PokedexIMG from '../../assets/img/PokeApi.png'
+import ProfileIMG from '../../assets/img/profile.png'
 
 import MobileNav from "./MobileNav"
 
@@ -32,7 +33,7 @@ const Navbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <div className="rounded-full bg-red-600 p-2 px-4">h</div>
+                    <div className="rounded-full flex border border-green-500 border-2 h-12 w-12 items-center justify-center"><img src={ProfileIMG} alt="Profile Image" className="h-10 rounded-full"/></div>
                 </div>
             </div>
         </nav>
