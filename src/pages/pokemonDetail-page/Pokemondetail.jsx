@@ -1,5 +1,4 @@
-import NavHistory from "./components/navHistory"
-import Cora from '../../assets/icons/cora.svg'
+import NavHistory from "./components/NavHistory"
 import axios from "axios"
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
