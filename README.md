@@ -38,29 +38,9 @@ La Pokédex es una aplicación desarrollada con React que se conecta a la PokeAP
 
 Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
 
-1. **Clona el repositorio:**:
-   ```bash
-   git clone https://github.com/tuusuario/pokedex-app.git
-
-2. **Navega al directorio del proyecto:**:
-    ```bash
-    cd pokedex-app
-
-3. **Instala las dependencias:**
-    ```bash
-    pnpm install
-
-4. **Inicia la aplicacion:**
-    ```bash
-    pnpm start
-
-**La aplicación debería abrirse en tu navegador en ## Instalación
-
-Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
-
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/pokedex.git
+   git clone https://github.com/TuPaPyCamba/pokedex-app
 
 2. **Navega al directorio del proyecto**:
     ```bash
@@ -74,7 +54,7 @@ Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
     ```bash
     npm start
 
-**La aplicación debería abrirse en tu navegador en http://localhost:3000.**
+**La aplicación debería abrirse en tu navegador en http://localhost:5173.**
 
 ## Uso
 
