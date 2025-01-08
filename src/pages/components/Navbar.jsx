@@ -19,7 +19,7 @@ const Navbar = () => {
                 <div className="flex flex-row items-center">
                     <MobileNav />
                     <Link to="/">
-                        <img src={PokedexIMG} alt="Pokedex logo" className="h-10" />
+                        <img src={PokedexIMG} alt="Pokedex logo" className="h-12" />
                     </Link>
                 </div>
                 <div className="flex flex-row items-center gap-10">
@@ -33,7 +33,7 @@ const Navbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <div className="rounded-full flex border border-green-500 border-2 h-12 w-12 items-center justify-center"><img src={ProfileIMG} alt="Profile Image" className="h-10 rounded-full"/></div>
+                    <div className="rounded-full flex border-green-500 border-2 h-12 w-12 items-center justify-center"><img src={ProfileIMG} alt="Profile Image" className="h-10 rounded-full"/></div>
                 </div>
             </div>
         </nav>
