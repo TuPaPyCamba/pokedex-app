@@ -56,6 +56,10 @@ Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
 
 **La aplicación debería abrirse en tu navegador en http://localhost:5173.**
 
+## Opcion alternativa
+
+Si prefieres no hacer la instalación manual, puedes acceder a la aplicación en línea a través del siguiente enlace: [Pokédex en Vercel.](https://pokedex-app-nine-beige.vercel.app/)
+
 ## Uso
 
 1. **Buscar Pokémon:** Usa la barra de búsqueda para encontrar Pokémon por nombre o tipo.
